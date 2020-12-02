@@ -1,7 +1,7 @@
-let customerRank = 3;
-let brand = "Audi";
-let color = "Siyah";
-let model = 2021;
+let customerRank = 3; //Kac Yillik Müsteri
+let brand = "Audi";   //Otomobil Markasi
+let color = "Siyah";  //Otomobil Rengi
+let model = 2021;     //Otomobil Model Yili
 
 
 if (customerRank >= 5) {
